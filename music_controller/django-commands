@@ -1,0 +1,5 @@
+cd .\music_controller\
+python .\manage.py runserver
+cd .\music_controller
+cd .\fronend\
+npm run dev
